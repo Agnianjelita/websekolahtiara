@@ -1,0 +1,15 @@
+.jumbotron{
+  background-image: url(gambar/sekolah.jpeg);
+  background-size: cover;
+  background-position: center center;
+  padding: 330px;
+}
+
+.logo img {
+  height: 30px;
+  padding-right: 30px;
+}
+
+.jurusan{
+  background-color: #608BC1;
+}
